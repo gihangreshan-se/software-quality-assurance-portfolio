@@ -150,6 +150,6 @@ This repository is intended for educational, demonstration, and portfolio purpos
 
 ## Author
 
-**Gihan Madurapriya**
+**Gihan Greshan**
 
-GitHub: [@gihanmadurapriya](https://github.com/gihanmadurapriya)
+GitHub: [@gihangreshangit](https://github.com/gihangreshangit)
