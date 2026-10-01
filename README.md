@@ -152,4 +152,4 @@ This repository is intended for educational, demonstration, and portfolio purpos
 
 **Gihan Greshan**
 
-GitHub: [@gihangreshangit](https://github.com/gihangreshangit)
+GitHub: [@gihangreshangit](https://github.com/gihangreshan-se)
